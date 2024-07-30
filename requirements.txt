@@ -4,3 +4,4 @@ numpy
 fuzzywuzzy
 pykrx
 streamlit_extras
+st_pages
