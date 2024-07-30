@@ -2,10 +2,4 @@ streamlit==1.36
 pandas
 numpy
 fuzzywuzzy
-base64
-matplotlib.pyplot
-yfinance
-datetime
-plotly.graph_objects
-os
-Page
+python==3.11
