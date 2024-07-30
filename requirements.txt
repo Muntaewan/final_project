@@ -5,6 +5,5 @@ fuzzywuzzy
 pykrx
 streamlit_extras
 st_pages==0.5
-plotly.graph_object
-yfinance
-matplotlib.pyplot
+plotly
+
